@@ -1,0 +1,302 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Beef - Bresaola",
+        "valor": 38944,
+        "stock": 59
+    },
+    {
+        "_id": 2,
+        "nombre": "Chicken Thigh - Bone Out",
+        "valor": 1062,
+        "stock": 13
+    },
+    {
+        "_id": 3,
+        "nombre": "Bagel - Plain",
+        "valor": 50210,
+        "stock": 90
+    },
+    {
+        "_id": 4,
+        "nombre": "Milk 2% 500 Ml",
+        "valor": 84101,
+        "stock": 55
+    },
+    {
+        "_id": 5,
+        "nombre": "Sauce - Caesar Dressing",
+        "valor": 7575,
+        "stock": 93
+    },
+    {
+        "_id": 6,
+        "nombre": "Avocado",
+        "valor": 46846,
+        "stock": 17
+    },
+    {
+        "_id": 7,
+        "nombre": "Oil - Peanut",
+        "valor": 68088,
+        "stock": 27
+    },
+    {
+        "_id": 8,
+        "nombre": "Beets - Mini Golden",
+        "valor": 66931,
+        "stock": 22
+    },
+    {
+        "_id": 9,
+        "nombre": "Sausage - Breakfast",
+        "valor": 57498,
+        "stock": 79
+    },
+    {
+        "_id": 10,
+        "nombre": "Compound - Strawberry",
+        "valor": 60260,
+        "stock": 39
+    },
+    {
+        "_id": 11,
+        "nombre": "Beans - Black Bean, Preserved",
+        "valor": 21798,
+        "stock": 91
+    },
+    {
+        "_id": 12,
+        "nombre": "Cookie Choc",
+        "valor": 13967,
+        "stock": 81
+    },
+    {
+        "_id": 13,
+        "nombre": "Puree - Passion Fruit",
+        "valor": 88783,
+        "stock": 9
+    },
+    {
+        "_id": 14,
+        "nombre": "Asparagus - White, Fresh",
+        "valor": 34222,
+        "stock": 8
+    },
+    {
+        "_id": 15,
+        "nombre": "Guinea Fowl",
+        "valor": 57807,
+        "stock": 88
+    },
+    {
+        "_id": 16,
+        "nombre": "Dried Apple",
+        "valor": 94964,
+        "stock": 18
+    },
+    {
+        "_id": 17,
+        "nombre": "Cucumber - English",
+        "valor": 923,
+        "stock": 34
+    },
+    {
+        "_id": 18,
+        "nombre": "Goat - Leg",
+        "valor": 32156,
+        "stock": 20
+    },
+    {
+        "_id": 19,
+        "nombre": "Wine - Jackson Triggs Okonagan",
+        "valor": 13835,
+        "stock": 44
+    },
+    {
+        "_id": 20,
+        "nombre": "Steampan Lid",
+        "valor": 88841,
+        "stock": 68
+    },
+    {
+        "_id": 21,
+        "nombre": "Fudge - Chocolate Fudge",
+        "valor": 68408,
+        "stock": 66
+    },
+    {
+        "_id": 22,
+        "nombre": "Tea - Grapefruit Green Tea",
+        "valor": 33658,
+        "stock": 19
+    },
+    {
+        "_id": 23,
+        "nombre": "Bread - Multigrain Oval",
+        "valor": 69025,
+        "stock": 42
+    },
+    {
+        "_id": 24,
+        "nombre": "Haggis",
+        "valor": 35539,
+        "stock": 49
+    },
+    {
+        "_id": 25,
+        "nombre": "Tomatoes - Plum, Canned",
+        "valor": 71772,
+        "stock": 70
+    },
+    {
+        "_id": 26,
+        "nombre": "Liquid Aminios Acid - Braggs",
+        "valor": 90018,
+        "stock": 16
+    },
+    {
+        "_id": 27,
+        "nombre": "Jam - Apricot",
+        "valor": 98317,
+        "stock": 24
+    },
+    {
+        "_id": 28,
+        "nombre": "Squash - Sunburst",
+        "valor": 46465,
+        "stock": 100
+    },
+    {
+        "_id": 29,
+        "nombre": "Chocolate Bar - Oh Henry",
+        "valor": 5629,
+        "stock": 64
+    },
+    {
+        "_id": 30,
+        "nombre": "Juice - Apple, 1.36l",
+        "valor": 77192,
+        "stock": 38
+    },
+    {
+        "_id": 31,
+        "nombre": "Cabbage - Green",
+        "valor": 36624,
+        "stock": 46
+    },
+    {
+        "_id": 32,
+        "nombre": "Cloves - Ground",
+        "valor": 16615,
+        "stock": 55
+    },
+    {
+        "_id": 33,
+        "nombre": "Cheese - Sheep Milk",
+        "valor": 26914,
+        "stock": 84
+    },
+    {
+        "_id": 34,
+        "nombre": "Raisin - Golden",
+        "valor": 49035,
+        "stock": 56
+    },
+    {
+        "_id": 35,
+        "nombre": "Bread - Multigrain, Loaf",
+        "valor": 98748,
+        "stock": 5
+    },
+    {
+        "_id": 36,
+        "nombre": "Sloe Gin - Mcguinness",
+        "valor": 80754,
+        "stock": 29
+    },
+    {
+        "_id": 37,
+        "nombre": "Chicken - Wieners",
+        "valor": 88754,
+        "stock": 11
+    },
+    {
+        "_id": 38,
+        "nombre": "Wine - Cabernet Sauvignon",
+        "valor": 2555,
+        "stock": 69
+    },
+    {
+        "_id": 39,
+        "nombre": "Lettuce - Iceberg",
+        "valor": 25680,
+        "stock": 29
+    },
+    {
+        "_id": 40,
+        "nombre": "Flower - Potmums",
+        "valor": 37804,
+        "stock": 45
+    },
+    {
+        "_id": 41,
+        "nombre": "Tuna - Fresh",
+        "valor": 46894,
+        "stock": 4
+    },
+    {
+        "_id": 42,
+        "nombre": "Broom - Angled",
+        "valor": 48216,
+        "stock": 17
+    },
+    {
+        "_id": 43,
+        "nombre": "Dc - Sakura Fu",
+        "valor": 30484,
+        "stock": 41
+    },
+    {
+        "_id": 44,
+        "nombre": "Petit Baguette",
+        "valor": 97906,
+        "stock": 40
+    },
+    {
+        "_id": 45,
+        "nombre": "Tart - Raisin And Pecan",
+        "valor": 19238,
+        "stock": 45
+    },
+    {
+        "_id": 46,
+        "nombre": "Glucose",
+        "valor": 18604,
+        "stock": 98
+    },
+    {
+        "_id": 47,
+        "nombre": "Tomatoes",
+        "valor": 45235,
+        "stock": 53
+    },
+    {
+        "_id": 48,
+        "nombre": "Soup - Knorr, Chicken Noodle",
+        "valor": 65796,
+        "stock": 24
+    },
+    {
+        "_id": 49,
+        "nombre": "Melon - Cantaloupe",
+        "valor": 39053,
+        "stock": 56
+    },
+    {
+        "_id": 50,
+        "nombre": "Anchovy Fillets",
+        "valor": 36662,
+        "stock": 34
+    }
+]
